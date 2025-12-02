@@ -1,0 +1,5 @@
+
+* Programming Principles nima ?
+* Qanday qilib effective code yozasiz ?
+* DRY nima ?
+* KISS nima ?

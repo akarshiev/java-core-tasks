@@ -1,0 +1,15 @@
+
+* Array nima ?
+* Java-da Arrayni qanday e'lon qilishimiz mumkin ?
+* Turli data typelar uchun Arrayning default qiymat qanday ?
+* Java-da Array yaratilgandan keyin uni size ni o'zgartira olamizmi ?
+* Arrayni size ni manfiy raqam belgilay olamizmi ?
+* Arrayni array size siz e'lon qila olamizmi ?
+* Array JVM xotirasi qayerida saqlanadi ?
+* Java-da primative Array JVM qaysi xotirasida saqlanadi ?
+* ArrayStoreException nima ? Bu exception qachon tashlanadi ?
+* Java-da anonymous Array nima? misol keltiring ?
+* Agar arrayni initialize qilmasangiz nima bo'ladi ?
+* Java-da Jagged Array nima ?
+* Array ni afzalliklari nimada ?
+* Array ni kamchiliklari nimada ?

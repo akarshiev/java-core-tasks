@@ -1,0 +1,27 @@
+1.1 Exceptions
+Exception nima ?
+Nima sabli exceptionlar yuzaga keladi ?
+Nima uchun exceptionlar haqida qaygurish kerak ?
+
+1.2 Dealing with errors
+Hamma exception yoki errorlarning otasi yani superclass qaysi ?
+Error nima va qachon yuzaga keladi?
+Exception va error farqi nimada?
+Qancha exception turlari bor ?
+Bizga alohida exception class yaratish nimaga kerak ?
+Exception propagation nima ?
+
+1.3 Catching an Exception
+Exceptionni catching nima?
+Exceptionlar qanday tutiladi ?
+Exceptionni tutish nima uchun kerak ?
+Br necha Exceptionlar qanday tutiladi ?
+Java 7 da qanday o'zgartirish kiritilgan try catch ga?
+Try-with-recources nima va uning foydali tomoni nimada?
+Try-with-recources da classlarimiz ishlashi uchun qaysi interfacedan voris olgan bo'lishi kerak
+Exceptionlarni foydali tomonlari nimada
+Exceptionning qanday turlari bor
+Uncheck exception va checked exception farqlari qanday?
+
+1.4 Tips for Using Exceptions
+Exceptionlardan foydalanish uchun qanday maslahatlar beriladi?

@@ -1,0 +1,13 @@
+* Computer program nima ?
+* Nima uchun hamma dasturlashni o'rganishi kerak ?
+* Java birinchi nomi nima edi ?
+* Java nechta featurelar bor ?
+* Compiler nima ?
+* Interpreter nima ?
+* JDK nima ?
+* JLS nima ?
+* JRE nima ?
+* JVM nima ?
+* Devtools nima ?
+* JDK components ?
+* Bytecode nima ?

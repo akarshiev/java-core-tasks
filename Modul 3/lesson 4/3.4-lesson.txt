@@ -1,0 +1,27 @@
+4.1 LinkedList
+LinkedList nima ?
+LinkedList elementlarni xotirada qanday saqlaydi ?
+LinkedListning qanday turlari bor ?
+LinkedListning ArrayListdan qanday avzalliki bor?
+LinkedListning qanday kamchiliklari bor?
+LinkedListning qanday turlari bor ?
+LinkedList va ArrayList o'rtasidagi farq ?
+
+4.2 LinkedList Class
+LinkedList initial capacitysi nima uchun nol ?
+Node nima ?
+LinkidList qanday data strukturadan foydalanadi ?
+LinkidList loadFactorysi nechi foiz ?
+LinkidList ning Super classi qaysi ?
+LinkidList dan elementni olish nima uchun sekin ?
+
+4.4 Vector class
+Vektor nima ?
+Vektor classining super classi qaysi ?
+Vektor class nima uchun JDK 5dan boshlab deprecated hisoblanadi ?
+Vektor classining initial capacitysi nechi ?
+Vektor va ArrayList ning o'rtasidagi farq ?
+Vektor nima uchun ArrayListdan sekin ?
+Vektor thread-safemi ? bo'lsa nima uchun ?
+Vektor dan elementlarni nechi xil usulda olishimiz mumkin ?
+Vektor ga iteratsiya paytida o'zgartirish kiritsak nima bo'ladi ?

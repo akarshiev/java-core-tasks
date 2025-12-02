@@ -1,0 +1,29 @@
+1. Abstraction
+Abstraction nima ?
+Abstractionga qanday erishiladi ?
+Concrete class qanday class ?
+Concrete class va Abstract class farqlari ?
+Abstract classning qoidalari nima ?
+Abstract methodning qoidalari nima ?
+Abstractionning avzalliklari nima ?
+Abstract methodlarni static bo'la oladimi ?
+Abstract classdan object yarata olamizmi ?
+Abstract classning constructori bormi ?
+
+2. Interface
+Interface nima ?
+Interface nima uchun kerak ?
+Interfacening xususiyatlari qanday ?
+Interfacening qoidalari qanday ?
+Interfacening qoidalari qanday ?
+Access modifierlarning turlarini interface methodlarida ishlata olamiz?
+Interfacelarning objectlarini yarata olamizmi ?
+Interfaceda static method yarata olamizmi?
+Interface bir necha voris olishni qo'llab quvvatlaydimi ?
+
+3.Absract va Interface farqlari ?
+
+4. Maker Interfaces
+Marker interface qanday interface ?
+Marker interfacega misollar keltiring.
+Marker interfacega bosh interface bo'lsa nima uchun kerak ?

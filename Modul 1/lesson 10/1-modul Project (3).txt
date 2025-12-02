@@ -1,0 +1,13 @@
+                                Mini Smart Project tayyorlang.
+1-dastur ishga tushganda console da menu chiqsin unda 
+              
+                 1-> Calculator // arifmetik amallar ustida
+                 2-> Convertor Money // pullar ustida
+                 3-> Convertor Number // istalgan sanoq sistemasidan , istalganiga o'tish
+                 4-> Interview questions answer // ushbu modulda berilgan barcha interview questions larga javob topib yozib
+                     chiqishingiz kerak.
+
+2-Calculator bosilganda kamida 5 ta amaldan foydalanish kk.
+3-Convertor Money bosilganda kamida somdan tawqari 3 ta pul birligini bolishi kk.
+4-Convertor Number bosilganda kamida 2,8,10,16 lik sonlar orasida convertor yasashingiz kk.
+5-Interview questions anwer bosilganda qaysi package javoblar joylaganiz haqida ma'lumot bo'lsin, javoblarni .txt file ga yozib 1 ta package ochib shunga joylaysiz .

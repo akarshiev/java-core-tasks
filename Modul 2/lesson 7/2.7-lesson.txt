@@ -1,0 +1,32 @@
+1. Memory Management
+Memory Management ?
+Xotira turlari ?
+Qaysilari asosiy xotiralar ?
+
+2. Stack Memory
+Stack xotira qanday xotira ?
+Stack Frame nima ?
+Stack xotirasini avzalliklari ?
+LIFO nima ?
+StackOverflow qachon yuzaga keladi ?
+
+3. Heap and Method area
+Heap qanday qismlardan iborat ?
+Nursery Space nima ?
+Nursery Space haqidagi muhim fikrlar ?
+Tenured Space nima ?
+Permanent Generation nima ?
+Metaspace nima ?
+Method Area nima ?
+
+4. Method Parameters
+Method Parameters ning turlarini ayting.
+Passing by Value nima ?
+Passing by Reference nima ?
+Javada passing by referance bormi ?
+Variable Arguments nima ?
+
+5. Garbage Collector
+Garbage Collector nima va uning vazifasi ?
+JVM Garbage Collector qanday bosqichlarni oz ichiga oladi ?
+Sweeping turlari qanday ?

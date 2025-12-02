@@ -1,0 +1,34 @@
+3.1 Dynamic Array
+Arraylar bilan qanday muammo bor ?
+Dynamic arraylarning qulay taraflari qanday?
+
+3.2 Collections Framework
+Collections Framework nima?
+Collections Framework ning qulay taraflari qanday?
+Collections Framework ning eng katta super classi qaysi?
+Collectionning qanday turlari bor?
+Map Collectionni ichiga kiradimi?
+Collectionda primative typelar ishlata olamizmi?
+Collection nima uchun kerak?
+Collection Framework qaysi packageda joylashgan ?
+Collection Framework asosiy interfacelarni ayting bering ?
+Collection Framework sort qilish uchun asosiy interfacelarni aytib bering ?
+
+3.3 List Interface
+List interface nima ?
+List interface asosiy xususiyatlarni ayting ?
+List interface ning foydali tomonlari nimada ?
+List interfacening subclasslari qaysi ?
+
+3.4 ArrayList
+ArrayList nima ?
+ArrayList qaysi interfacedan voris olgan ?
+ArrayList qaysi marker interfacelardan voris olgan ?
+ArrayList ning asosiy xususiyatlarni ayting ?
+ArrayList dublikat elementlarni saqlaydimi ?
+ArrayListga null qo'sha olmizmi ?
+ArrayList elementlarni xotirada qanday tartibda saqlaydi ?
+ArrayList bilan Array ni o'rtasidagi farq ?
+ArrayList ni kamchiliklari ?
+ArrayList ning loadFactorysi nechi foiz ?
+ArrayList dan elementlarni olishni nechi xil usuli mavjud ?

@@ -1,0 +1,24 @@
+1. Type inference
+Type inference nima?
+Var keywordni qachon ishlata olamiz, qachon ishlata olmaymiz ?
+
+2. Enum Classes
+Enum classlar qanday classlar ?
+Enum classidan object yaratib bo'ladimi ?
+Enum classining avzalliklari ?
+Enum classlari interfacelardan voris ololadimi ?
+Enumda constructor yarata olamizmi ?
+
+3. Design Patterns
+Design Patterns nima ?
+Design Patterns qandayturlarga bo'linadi ?
+Creational Design Patterns nimaga yordam beradi ?
+Singleton nima?
+Factory method nima?
+Builder nima?
+
+4. Class Design Hints
+Sinf yaratyapganda nimalarga e'tibor berish kerak?
+
+5. JShell
+JShell nima ?

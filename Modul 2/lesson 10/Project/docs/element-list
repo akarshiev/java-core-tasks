@@ -1,0 +1,6 @@
+com.pdp.online.quiz
+com.pdp.online.quiz.core
+com.pdp.online.quiz.model
+com.pdp.online.quiz.service
+com.pdp.online.quiz.storage
+com.pdp.online.quiz.util

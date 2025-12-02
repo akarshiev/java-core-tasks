@@ -1,0 +1,11 @@
+
+* Execution Flow nima ?
+* Control Flow nima?
+* if nima ?
+* if nima uchun ishlatamiz ?
+* Loop nima?
+* Loop nima uchun ishlatamiz ?
+* Java-da Control Flow ning nechi xil turi mavjud ?
+* Switch statement qanday ishlaydi ?
+* Unicode system nima uchun kerak ?
+* ansi escape code nima ?

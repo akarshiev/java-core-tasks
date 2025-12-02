@@ -1,0 +1,13 @@
+
+* Function nima ?
+* Function va Method o'rtasidagi farq nima ?
+* Method Definition nima ?
+* Method Declaration (header) nima ?
+* Method Signature nima ?
+* Method body nima ?
+* Stack nima ?
+* Stack Frame nima ?
+* Recursion nima ?
+* Method qachon recursive method deb ataladi ?
+* Group of recursions ?
+* Type of recursions ?

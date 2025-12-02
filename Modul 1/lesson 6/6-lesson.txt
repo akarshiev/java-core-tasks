@@ -1,0 +1,5 @@
+
+* Java-da String nima ?
+* Java-da String ni nechi xil usulda yaratishimiz mumkin ?
+* Java-da String nima uchun immutable ?
+* Java-da String classning superclassni nima?

@@ -1,0 +1,26 @@
+1. Inheritance
+Inheritance nima ?
+Inheritance nima uchun kerak ?
+Inheritancening qanaqa turlari bor ? va misollar keltiring.
+Javada bir nechta Inheritancedan foydalansa bo'ladimi ?
+Superclass va subclass qanday classlar ?
+Supclass superclassni nimalarini meros qilib oladi ?
+Cosmic class deb qaysi classga aytiladi ?
+Cosmic classning qanday methodlari bor ?
+
+2. Access Modifier
+Access modifierlar nima uchun kerak ?
+Access modifierning qanday turlari bor ? va tarif bering
+Private constructor yarata olamizmi ? va uning vazifasi qanday ?
+Access modifierlarini qaysilarini class bilan ishlata olamiz ?
+Biz SuperClassning protected constructoridan foydalana olamizmi ?
+Private modifier nimalarda ishlatiladi va ishlatish uchun qayerlarga ruxsat beradi ?
+
+3. Relationships
+Classlar orasida qanday relationshiplar bor ?
+User-A munosabat turi qayerda ishlatiladi ?
+Has-A munosabat turi qayerda ishlatiladi ?
+Is-A munosabat turi qayerda ishlatiladi ?
+Is-A munosabatga erishi uchun qanday keywordlar ishlatiladi ?
+Has-A munosabating qanday turlari bor ?
+Composition, Aggregation va Association farqlari ?

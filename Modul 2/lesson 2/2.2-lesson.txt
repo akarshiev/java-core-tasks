@@ -1,0 +1,12 @@
+1. Encapsulation
+Encapsulation nima ? Nimaga Data hiding deyiladi ?
+Encapsulationga qanday erishamiz ?
+Encapsulationga qanday afzalliklari bor ?
+Getter va Setter methodlari nima fazifani bajaradi ?
+Getter va Setter methodlari ishlatilishidagi xatolar ?
+
+2. Package
+Packagelar bizga nimaga kerak ?
+Packagelarni qanday nomlash kerak ?
+Package azolari (members) deb nimaga aytiladi ?
+Tashqaridagi package azolaridan qanday foydalanish turlari bor ?

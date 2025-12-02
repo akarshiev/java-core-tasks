@@ -1,0 +1,28 @@
+1. Programming paradigms
+                Programming paradigms nima va ular qaysilar ?
+                Procedural Programming nima ?
+                OOP nima ?
+                Functional Programming nima ?
+                Reactive Programming nima ?
+                Procedural Programming and Object-oriented Programming farqi nima ?
+
+2. OOP
+OOP kontsepsiyalari qaysilar ?
+OOP ning asosiy ustunlari qaysilar ?
+Class deb nimaga aytiladi ?
+Object deb nimaga aytiladi ?
+Method deb nimaga aytiladi ?
+Field deb nimaga aytiladi ? 
+
+3. Constructor
+Constructor nima uchun kerak ?
+Constructorning qanaqa turlari bor ?
+Biz constructor yaratsak ham class ichida default constructor bo'ladimi ?
+Constructor qachon chaqiriladi ?
+Bitta Class ichida bir nechta constructor bo'lishi mumkinmi ?
+Default Constructor qanaqa constructor ?
+No-Arg Constructor qanaqa constructor ?
+Parametrized Constructor qanaqa constructor ?
+Copy Constructor qanaqa constructor ?
+Chaining Constructor qanaqa constructor ?
+Compact Constructor qanaqa constructor ?         

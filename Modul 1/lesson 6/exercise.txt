@@ -1,0 +1,24 @@
+2ta string berilgan, a va b, ularni abba tartibda birlashtirib result qaytaradigan method yozing.
+
+
+2-vazifa
+
+String berilgan, uning birinchi 2ta belgisini tuzilgan string qaytaradigan method yozing. Misol "Hello" -> "He". Agar string 2da kichik yoki teng bo'lsa nma berilgan bo'lsa shuni qaytaring.
+
+
+3-vazifa
+
+String berilgan, stringni dastlabki 2ta belgisidan 3ta nusxasidan iborat yangi string qaytaring. Misol "Hello" -> " HeHeHe". Agar string length 2tadan kam bo'lsa, berilgan string 3ta nusxasidan iborat yangi string qaytaring. Misol -> "H" -> "HHH".
+
+
+4-vazifa
+
+String berilgan, string oxiri "ly" bilan tugasa, true qiymatini qaytaring.
+
+
+5-vazifa
+
+String berilga, Agar berilgan stringda "bob" qatori bo'lsa, lekin o'rtadagi "o" belgisi istalgan belgi bo'lishi mumkin. Ushbu casega mos kelsa true qaytaring.
+"abcbob" -> true
+"b9b" -> true
+"bac" -> false

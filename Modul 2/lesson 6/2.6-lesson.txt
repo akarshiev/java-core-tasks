@@ -1,0 +1,26 @@
+1. Wrapper Classes
+Wrapper Classlar nima ?
+Wrapper Classlar nimaga kerak ?
+Qanday Wrapper Classlar mavjud ?
+Wrapper Classlar qanday classlar ?
+Number Classning subclasslari qaysilar ?
+Character Classning qaysi interfacelardan voris olgan ?
+
+2. Big Numbers
+BigNumbers ning qanday turlari bor ?
+What is BigDecimal Class ?
+What is BigNumber Class ?
+Arefmetik ammalarini (+,-,/,*) bu classlar bilan ishlata olamizmi ?
+
+3. AutoBoxing and UnBoxing
+AutoBoxing and Boxing nima uchun kerak ?
+Autoboxing nima ?
+Unboxing nima ?
+Narrowing and Widening nima ?
+
+4. Inner Classes
+Inner Class nima ?
+Inner Classlarning foydali tomonlari ?
+Inner Classning qanaqa turlari bor ?
+Static Inner Class Outer Classning non-static fieldlarga murojat qiloladimi ?
+Local innner class larni access modifierlar bilan e'lon qilib bo'ladimi ?

@@ -1,0 +1,15 @@
+1. Objects Class
+Objects classi qanday class?
+Objects classini qanday methodlari bor?
+
+3. Generating Documentation
+JavaDoc nima ?
+JavaDoc nima uchun kerak ?
+JavaDoc nimalar uchun documentation yaratadi ?
+Package uchun documentation yaratish uchun qanday file qo'shish kerak ?
+Documentation yaratish uchun qanday buyruq yoziladi ?
+
+3. UUID
+UUID nima ?
+UUID nima uchun kerak ?
+UUIDDagi M va N nimani bildiradi ?

@@ -1,0 +1,68 @@
+                                            Universal CRUD.
+1-dastur ishga tushganda console da menu chiqsin unda 
+         
+            1-> Student CRUD // Easy 
+            2-> Product CRUD // Middle
+            3-> Minesweeper Game // Hard
+            4-> Interview questions answer // ushbu modulda berilgan barcha interview questions larga javob topib yozib
+                     chiqishingiz kerak.
+
+2-Student CRUD haqida : Student table boladi unda kamida 
+    private String name;
+    private String lastName;
+    private int age;
+    private String phoneNumber;
+     
+    kabi fieldlari bo'lsin va ular ustida CREATE , UPDATE , DELETE , READ qilinsin.
+    
+    bu taskni bajarishda siz switch case va arraylar haqida ko'proq bilishiz zarur chunki ulardan foydalanasiz.
+
+3-Product CRUD haqida: Product class boladi unda ushbu fieldlar yaratiladi 
+     
+    public class Product {
+
+    private String name;
+    private double price;
+    private ProductCategory category;
+
+    }
+     
+     ProductCategory bu yerda enum hisoblanadi :
+    
+    public enum ProductCategory {
+    ELECTRONICS(new String[][]{{"Laptop", "Mobile", "Tablet"}, {"TV", "Camera", "Headphones"}}),
+    CLOTHING(new String[][]{{"Shirt", "Trousers", "Dress"}, {"Shoes", "Socks", "Hat"}});
+     }
+     
+     enumni ko'rinishi qisqacha wunaqa yaratilinadi.
+
+    public class InventoryManagementSystem {
+    private Product[][] inventory;
+    private int maxProducts;
+    private int currentProducts;
+
+    public InventoryManagementSystem(int maxProducts) {
+        this.maxProducts = maxProducts;
+        inventory = new Product[maxProducts][2];
+        currentProducts = 0;
+    }
+    }
+
+    Bu class Productlarni boshqarish un kerak bo'ladi , ya'ni CRUD uchun . Shularga asoslangan holda 
+    CREATE , UPDATE , DELETE , READ qilinsin.
+
+   bu taskni bajarishda getter , setter , toStringlarni o'ziz yaratib olasiz , switch case lar va 2 olchovli massivlar 
+   ustida koproq ishlaysiz. 
+
+4-Minesweeper Game haqida:
+  
+   Bu o'yinni hammamiz o'ynab ko'rganmiz , hammamizni kompyuterimizda bor bo'lgan o'yin ,minimum 8x8 o'lchamdagi table
+   boladi unda hamma kataklar yashirilgan boladi kataklarda minalar va oddiy sonlar boladi mina bor xonani topib qo'yilsa  
+   o'yin shu zahoti to'xtaydi aksincha son topilsa rekursiv tarzda o'zini atrofidagini mina bo'lmagan xonalar ham ochilib        
+   ketaveradi.O'yin minalar oxirgi sonni topganda yutgan hisoblanadi .
+
+   bu o'yinni yasash uchun 2 o'lchamli massiv , char , boolean , while , for , ichma-ich for , table larni 
+   to'ldirish un Random class lardan foydalanasiz. 
+
+
+5-Interview questions anwer bosilganda qaysi package javoblar joylaganiz haqida ma'lumot bo'lsin, javoblarni .txt file ga yozib 1 ta package ochib shunga joylaysiz .

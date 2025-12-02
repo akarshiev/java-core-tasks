@@ -1,0 +1,29 @@
+1. Polymorphism
+Polymorphism nima ?
+Polymorphismning turlari ?
+Static Polymorphism nima ?
+Dynamic Polymorphism nima ?
+Polymorphism va Inheritanceni farqi ?
+Polymorphismning foydali taraflari nima ?
+
+2. Overloading
+Overloading nima ?
+Overload methodning qoidalari ?
+Static methodlarni overload qilolamizmi ?
+Bir xil signature va har xil return type ga ega bo'lagn methodlar yarata olamizmi ?
+Overloading Dynamic binding ga misol bola oladimi ?
+
+3. Overriding
+Overriding nima ?
+Override methodining qoidalari ?
+Override qilingan methodni signatureini o'zgartira olamizmi ?
+Class fieldlari override boladimi?
+Binding nima ?
+Static Binding nima ?
+Dynamic Binding nima ?
+
+4. Access Modifiers in case of Overriding
+Static methodlarni override qila olamizmi ?
+Final methodlarni override qila olamizmi ?
+Private methodlarni override qila olamizmi ?
+Protected bolgan methodni override qilib boshqa access modifier bilan elon qila olamizmi?

@@ -1,0 +1,11 @@
+
+* Java-da Formatting nima ?
+* String classni format() method javani nechinchi versiyasida taqdim etilgan ?
+* String classni format method qachon ishlatishimiz kerak ?
+* '%s' belgisini nima uchun ishlatamiz ?
+* Java-da MessageFormat class nima uchun ishlatamiz ?
+* MessageFormat format() method nima ?
+==================================
+* string format methodiga bitta misol yozing.
+* string format method foydalanib kirib kelgan strngga "Welcome to " qo'shimchasini qo'shib ekranga chiqaruvchi dastur
+  yozing.
