@@ -1,52 +1,52 @@
-import uz.pdp.online.tasks.one.Car;
+import java.util.*;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+class Main {
+    private static final Map<String, List<String>> dictionaryMap = new HashMap<>();
 
-public class Main {
     public static void main(String[] args) {
-        /*
-        Name, color, model fiieldlardan iborat Car clasini yarating -> done
-        Car classini va price ni saqlovchi map yarating -> done
-        map elementlari ekranga chizilsin -> done
-        berilgan price chegari bo'yicha yani berilgan pricedan
-        kichik bo'lgan mashinalar malumotlari price bilan ekranga
-        chiqaradigan method ham yozing -> done
-        */
+        dictionaryMap.put("Uy", List.of("House", "Home", "Dwelling"));
+        dictionaryMap.put("Kitob", List.of("Book"));
+        dictionaryMap.put("Maktab", List.of("School", "Academy"));
+        dictionaryMap.put("Daraxt", List.of("Tree"));
+        dictionaryMap.put("Qiziq", List.of("Interesting", "Funny", "Exciting"));
 
-        Map<Integer, Car> map = new HashMap<>();
-
-        map.put(895, new Car("Tesla", "Black", "Tesla X"));
-        map.put(795, new Car("BMW", "White", "X7"));
-        map.put(587, new Car("Audi", "Black", "A6"));
-        map.put(695, new Car("Mercedes", "White", "Mercedes-Benz EQE SUV"));
-
-        map.forEach((price, value) -> {
-            System.out.printf("""
-                    ----------
-                    Price: $%d
-                    Car: %s
-                    ----------
-                    """.formatted(price, value));
+        dictionaryMap.forEach((uzbek, englishList) -> {
+            String engTranslations = String.join(", ", englishList);
+            System.out.printf("Uzbekcha: %-10s -> Englishcha: [%s]\n", uzbek, engTranslations);
         });
 
-        inputPrice(map);
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("\nTarjima uchun so'zni kiriting (Uzbek/English): ");
+        String input = scanner.nextLine().trim();
 
+        if (input.isEmpty()) {
+            System.out.println("So'z kiritilmadi.");
+        } else {
+            searchAndTranslate(input);
+        }
+
+        scanner.close();
     }
 
-    public static void inputPrice(Map<Integer, Car> map) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Narxni kiriting: ");
-        int price = scanner.nextInt();
+    public static void searchAndTranslate(String wordToTranslate) {
+        String capitalizedInput = wordToTranslate.substring(0, 1).toUpperCase() + wordToTranslate.substring(1).toLowerCase();
 
-        for (Map.Entry<Integer, Car> entry : map.entrySet()) {
-            if (entry.getKey() < price) {
-                System.out.println("--------------------------");
-                System.out.println("Price: $" + entry.getKey());
-                System.out.println("Car: \n" + entry.getValue());
+        if (dictionaryMap.containsKey(capitalizedInput)) {
+            List<String> translations = dictionaryMap.get(capitalizedInput);
+            System.out.println("\nTarjima topildi (Uzbek -> English):");
+            System.out.printf("%sning tarjimalari: %s\n",
+                    capitalizedInput, String.join(", ", translations));
+            return;
+        }
+
+        for (Map.Entry<String, List<String>> entry : dictionaryMap.entrySet()) {
+            if (entry.getValue().contains(capitalizedInput) || entry.getValue().contains(wordToTranslate.toLowerCase())) {
+                System.out.println("\nTarjima topildi (English -> Uzbek):");
+                System.out.printf("%s'ning uzbekcha tarjimasi: %s\n",
+                        wordToTranslate, entry.getKey());
+                return;
             }
         }
-        scanner.close();
+        System.out.println("\nlug'atda '%s' so'zi topilmadi.".formatted(wordToTranslate));
     }
 }
