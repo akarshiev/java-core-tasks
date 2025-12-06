@@ -1,0 +1,48 @@
+7.1 Map
+Map nima ?
+Map interfaceni subclasslarni sanab bering ?
+Map asosiy xususiyatlari ?
+Map Hierarchy aytib bering ?
+Map nima uchun Object classini hashCode() methodidan foydalanadi ?
+Map qaysi operatsiyalar uchun Map dan foydalanishimiz kerak ?
+Map keyga null qiymat bersak nima bo'ladi ?
+Map ni iteratsiya paytida o'zgartirsak nima bo'ladi ?
+
+7.2 HashMap
+HashMap nima ?
+HashMap asosiy xususiyatlari ?
+HashMap va HashSet o'rtasidagi farq ?
+HashMap elementlarni tanday tartibda saqlaydi ?
+HashMap key ga duplicate elementlarni saqlashimiz mumkinmi ?
+HashMap initial capacitysi va loadFactoryni ayting ?
+HashMap tez yoki HashSet ?
+HashMap nechi xil yo'l bilan elementlarni olishimiz mumkin ?
+HashMap element internal nimada saqlaydi ?
+
+7.3 LinkedHashMap
+LinkedHashMap nima ?
+LinkedHashMap Java-ni nechinchi versiyasida qo'shilgan ?
+LinkedHashMap va HashMap o'rtasidagi farq ?
+LinkedHashMap thread-safemi ?
+LinkedHashMap initial capacitysi va loadFactorysini ayting ?
+LinkedHashMap elementlarni qanday tartibda saqlaydi ?
+LinkedHashMap synchronizedmi ?
+LinkedHashMap keyga nechtagacha null qiymat qo'shimiz mumkin ?
+
+7.4 TreeMap
+TreeMap nima ?
+TreeMap saqlanadi elementlar Comparator interface impl olgan bo'lishi kerakmi ?
+TreeMap va HashMap o'rtasidagi farq ?
+TreeMap qanday data structure foydalanadi ?
+TreeMap qanday ishlashni tushintirib bering ?
+TreeMap null key qo'shimiz mumkinmi ?
+TreeMap asynchrome ?
+
+7.5 WeakHashMap
+WeakHashMap nima ?
+WeakReference nima ?
+WeakHashMap synchronizedmi ?
+WeakHashMap elementlarni qo'shish taribini saqlaydimi ?
+WeakHashMap ga nechtagacha null key qo'shimiz mumkin ?
+WeakHashMap ga duplicate key qo'shimiz mumkin ?
+WeakHashMap va HashMap o'rtasidagi farq ?

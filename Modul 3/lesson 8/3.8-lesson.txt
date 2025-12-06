@@ -1,0 +1,21 @@
+8.1 Views
+View nima ?
+Empty View bizga nima uchun kerak ?
+Unmodifiable views nima ?
+
+8.2 Shallow Copy & Deep Copy
+Shallow Copy nima ?
+Deep Copy nima ?
+Deep Copy va Shallow Copy o'rtasidagi farq ?
+Shallow Copy qayerda ishlatamiz ?
+Deep Copy qayerda ishlatamiz ?
+
+8.3 Iterator vs ListIterator
+Iterator nima ?
+Java-da nechta Iterator bor ?
+Iterator hasNext() method nima uchun ishlatiladi ?
+ListIterator nima ?
+ListIterator va Iterator o'rtasidagi farq ?
+Fail-Safe iterators nima ?
+Fail-Fast iterators nima ?
+Fail-Fast va Fail-Safe o'rtasidagi farq ?
